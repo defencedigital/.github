@@ -4,5 +4,5 @@
 - [x] Create SECURITY.md for vulnerability disclosure information
 
 ### Security Vulnerability Disclosure
-[Org Security README](https://github.com/defencedigital/.github/blob/main/SECRUITY.md)
+[Org Security README](https://github.com/defencedigital/.github/blob/main/SECURITY.md)
 
